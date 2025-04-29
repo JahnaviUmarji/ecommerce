@@ -1,0 +1,4 @@
+Django==4.2.20
+djangorestframework==3.16.0
+gunicorn
+pymysql==1.1.0

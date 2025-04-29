@@ -1,0 +1,11 @@
+POST http://127.0.0.1:8000/api/product/
+Content-Type: application/json
+
+{
+  "name": "Bluetooth Speakers 3",
+  "price": 19.99,
+  "description": "Latest wireless bluetooth speakers",
+  "is_available": true,
+  "category": 1
+}
+
